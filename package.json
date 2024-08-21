@@ -1,0 +1,12 @@
+{
+  "name": "Naejeon Bot",
+  "version": "1.0.0",
+  "description": "Custom Naejeon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
